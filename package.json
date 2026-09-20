@@ -1,0 +1,1 @@
+{ "name":"substrate-game-engine","version":"0.0.1","description":"Room/scene engine for substrate games","main":"src/index.ts","type":"module","scripts":{"test":"node --test src/tests/*.test.ts"},"keywords":["substrate","game-engine","rooms","scenes"],"license":"MIT" }
